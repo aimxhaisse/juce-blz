@@ -1,2 +1,4 @@
-# juce-smbpitchshift
-A port of the SMB Pitchshifter to Juce
+# BLZ Audio Public
+
+This repository contains open-source audio utilities for juce provided
+by [BLZ Audio](https://blz.sbrk.org).
